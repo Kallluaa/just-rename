@@ -1,8 +1,9 @@
-<img src="https://graph.org/file/43f5c07fe7c7021b5e44a.jpg" alt="logo" target="/blank">
-
 <h1 align="center">
  <b><a href="https://t.me/Max_Leech_Zone_Update" target="/blank">  Pʀᴇᴍɪᴜᴍ Rᴇɴᴀᴍᴇʀ  </a></>
 </h1>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=RENAME+BOT+!;CREATED+BY+NOBI+DEVELOPER!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
+</p>
 
 <p align="center"> 𝐓𝐡𝐚𝐧𝐤𝐬 𝐅𝐨𝐫 𝐁𝐞𝐢𝐧𝐠 𝐇𝐞𝐫𝐞 🗿</p>
 
